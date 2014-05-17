@@ -1,4 +1,3 @@
-infiltrate-calculator
-=====================
+Updating this readme file from text edit to learn how to push, pull, and commit.  
 
-Test .git.
+We should all be better at committing… 
